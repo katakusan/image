@@ -7,7 +7,7 @@
 
 # Compiled Object files
 *.slo
-*.lo
+*.l
 *.o
 *.obj
 
